@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prognosticon posthumum. 1643/4. Exactly calculated to the meridion of London, and may indifferently serue for all England. By way of caution, to the people of England, Scotland, and Ireland, that shall happen to reade Navvorth. As an appendix to Maister Iohn Bookers Mercurius Cœlicus. / Written by S.M.</title>
+            <author>Morgan, Sylvanus, 1620-1693.</author>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89306</idno><idno type="EEBO-CITATION">99868908</idno>
+  <idno type="VID">159149</idno>
+  <idno type="EEBO-PROQUEST">2240934756</idno>
+  
+            <idno type="STC">Wing M2742</idno>
+            <idno type="STC">Thomason E253_6</idno>
+            <idno type="STC">ESTC R210077</idno>
+            <idno type="PROQUEST">99868908</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868908e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159149)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 43:E253[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prognosticon posthumum. 1643/4. Exactly calculated to the meridion of London, and may indifferently serue for all England. By way of caution, to the people of England, Scotland, and Ireland, that shall happen to reade Navvorth. As an appendix to Maister Iohn Bookers Mercurius Cœlicus. / Written by S.M.</title>
+                  <author>Morgan, Sylvanus, 1620-1693.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by a more warrantable licence then Domino D. Arch. Cant. Secellanus Domesticus.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1643. [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>S.M. = Sylvanus Morgan.</note>
+                  <note>Wing has publication year 1643[4]; Thomason catalogue lists under 1644.</note>
+                  <note>[George] Naworth = Sir George Wharton.</note>
+                  <note>Annotation on Thomason copy: "March. 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Booker, John, 1603-1667 --  Early works to 1800.</term>
+               <term type="personal_name">Wharton, George, --  Sir, 1617-1681 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159149:1"/>
+            <p>PROGNOSTICON Posthumum. 1643/4.</p>
+            <p>Exactly calculated to the Meridion of <hi>London, and may indifferently serue for all</hi> England.</p>
+            <p>By way of Caution, to the people of <hi>England, Scotland, and Ireland, that shall happen to reade</hi> NA-VVORTH.</p>
+            <p>As an Appendix to Maister Iohn Bookers <hi>Mercurius Coelicus.</hi>
+            </p>
+            <p>Written by S. M.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by a more warrantable Licence then Domino D. Arch. Cant. Secellanus Domesticus. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="review">
+            <pb facs="tcp:159149:2"/>
+            <head>His name is <hi>Nabal,</hi> and folly is with him. No-worth, 1644. A new <hi>ALMINACK</hi> and <hi>Prognostication</hi> for the yeare of our Saviour, 1644.</head>
+            <p>
+               <seg rend="decorInit">H</seg>AD I met his name in the third collumn of his Alminack, under the title of Saints: I should have thought the Divell, hath transformed himselfe into an Angell of Light, a <hi>Prognostication;</hi> and yet hee saith himselfe in the page of December, in his new Rubrick that for the yeare yet to come, hee can give you no account as yet, no nor I beleeve, for that that's past, you see what to trust too, a <hi>Prognostication</hi> worth nothing: neverthelesse, as <hi>Britanni<g ref="char:EOLhyphen"/>cus</hi> observed concerning <hi>Aulicus,</hi> he hath the faculty of ralying a routed Regiment in<g ref="char:EOLhyphen"/>to a story, and claimes Christ as a Saviour, when he is unwilling to call this, the yeare of our Redemption, being the bissextile or leap yeare.</p>
+            <p>What this bissextile yeare is, he tells you, <hi>Subtitulo, leap yeare,</hi> and that it is nothing but a day gotten by the surplus of 6 howers every year, and this is one Doctors opinion, then I may adde mine too.</p>
+            <p>It is leap yeare where the <hi>Surplis</hi> has got by Spirituall fornication, a child of Idola<g ref="char:EOLhyphen"/>try, when the <hi>Surplis</hi> has got a rent, and may be added among his Cronologicall Oc<g ref="char:EOLhyphen"/>currences, <hi>Ian.</hi> 18. 1643. Such a leap year, where he like <hi>Aulicus,</hi> hath leapt over Gods providence, turning the truth of God into a lye, under the title of—</p>
+            <p>With a cronologie of the most remarkeable Occurrences since the beginning of this Rebellion, calculated exactly for the latitude and meridian of the famouus V<g ref="char:EOLhyphen"/>niversity of <hi>Oxford,</hi> by <hi>GEORGE NAVVORTH.</hi>
+            </p>
+            <p>IT should seem by his own <hi>Oxford</hi> Calculation, that this Rebellion was calculated at <hi>Oxford,</hi> and <hi>Mercurius Aulicus</hi> was his pole-stare, since the whole Court moves upon that beares taile, had <hi>Naworth</hi> set his instrument Meridionall, hee might have found <hi>Berkenhead, alias Bufflehead,</hi> 53. degrees high in impieties Sunday, the 28. of <hi>Ianuary,</hi> 1643. <hi>Printed at Oxford by his Majesties speciall command.</hi>
+            </p>
+            <p>We have good thoughts and loyall hearts to his Majesty, but we will conclude that his Majesty rules not there, because <hi>Plato</hi> saith, nature may sooner erre, then a Prince frame a Common Wealth unlike himselfe.</p>
+            <p>But <hi>I</hi> come to his Alminack it selfe, and we begin with his <hi>perfect table of the foure Tearmes, &amp;c.</hi>
+            </p>
+            <p>I can but wonder why he takes the paines to tell the foure tearms of the yeare, since they are lawlesse where he lives, and cannot adjourn the tearme to <hi>Oxford,</hi> or that hee takes notice of dayes of exception, and never remember, why <hi>Cottington, Byron, &amp;c.</hi> were accepted against, or dayes of appearance, <hi>Ian.</hi> 22. 1643, where one acts in a Spanish cloak, and another like the Prelate of the garter or Palatine Bishop, reads ser<g ref="char:EOLhyphen"/>vice in a head-peece, and all to make up <hi>Englands</hi> tragidy compleat.</p>
+            <p>And why should we <hi>note that the Exchequer opens,</hi> except he lookes for the golden
+<pb n="2" facs="tcp:159149:2"/> number, there, he saith it is 11. but in that contradicts the Lord <hi>Goring's</hi> letter, who saith, all was pawnd but the great coller of SS. which has made <hi>the circle of the Sunns but</hi> 1, who is heire to three Kindomes, he taxes our thoughts, we know not yours, when you mention his Majesty to be affraid to adde, whom God grant long to raigne, and now since you have led me to the <hi>Dominion of the Moone in mans body.</hi>
+            </p>
+            <p>Me thinks I see a gracious King sitting, I feare setting in your Horizon li<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the <hi>Ano<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>my,</hi> naked, open to a feminine planet; <hi>Digbies</hi> Bull, holding him by the shoulders, threatning excommunication. <hi>Gemine, Rupert</hi> and <hi>Maurice</hi> claming his ar<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es. <hi>Li<g ref="char:EOLhyphen"/>bra</hi> ♎ in his loynes, Justice and equity: manhood in his heart. <hi>Leo</hi> ♌ the ancient badg of his Royal Predecessors, but on a slippery foundation, a feminine signe. <hi>Giue the King thy judgment ô God, and keep his feet from sliding.</hi>
+            </p>
+            <q>
+               <l>When as the Major did rule the Towne,</l>
+               <l>The woman rul'd the man:</l>
+               <l>But when the boy his Mother rul'd,</l>
+               <l>The Towne was rul'd by <hi>Iohn.</hi>
+               </l>
+            </q>
+            <div type="part">
+               <div type="month">
+                  <head>
+                     <hi>IANVARY</hi> hath XXXI dayes.</head>
+                  <p>THis month it seems hath nothing so remarkable as the 10<seg rend="sup">th</seg>
+                     <hi>day,</hi> when his Majesty left his faithfull Councell by <hi>White-hall,</hi> going from a Court of Justice to a semi<g ref="char:EOLhyphen"/>nary of—I know you will confesse a Tub is no fit residence for <hi>Alexander,</hi> but <hi>Diogenes,</hi> Philosophers best sort with their Accademies. <hi>Precipibus Metropolis,</hi> 'tis a University phrase: pray pardon the expression; where is the Metropolis, is it not <hi>Lon<g ref="char:EOLhyphen"/>don?</hi> where is the chiefe Court, but Parliament, not where tumults molested him, but where the vote of a Kingdome would make him the happiest Prince alive: hee takes notice of the 19. 22. and 27. of <hi>Ianuary,</hi> and yet remembers not Gods mercies renew<g ref="char:EOLhyphen"/>ed every day: me thinks I look upon his phrase of Rebels, as on the bastard that threw stones among a tumult as hee calls it, and am willing to give him that admonition to take heed he do not hit his father <hi>Pater Errorum,</hi> as Mr. <hi>Iohn Booker</hi> stiles him.</p>
+               </div>
+               <div type="month">
+                  <head>
+                     <hi>FEBRVARY</hi> hath XXIX dayes.</head>
+                  <p>ANd here you had need of just action, that you may understand his lying kallen<g ref="char:EOLhyphen"/>der, it hath 6. collumns: the first is titled <hi>dayes of the month,</hi> the second is <hi>dayes of the weeke,</hi> the third is <hi>Holidayes</hi> with Saints names. And I question whether the Cannon of &amp;c. be not set downe there as a Canonnicall day? why not <hi>Thomas</hi> a <hi>Becket,</hi> and St. <hi>William</hi> of <hi>Canterbury's</hi> name, as well as their images at the West end of <hi>Pauls.</hi>
+                  </p>
+                  <p>The next collumn is titled <hi>places of the moone at noone,</hi> and then the sun rising at <hi>Ox<g ref="char:EOLhyphen"/>ford;</hi> It seems the greater planet never rises till the moone is up, and so you reckon from he meridian of midnight, and that makes the difference between you at <hi>Oxford,</hi> and we at <hi>London,</hi> it seems you do not rise while noon, this was the Marquesse of <hi>Newca<g ref="char:EOLhyphen"/>stles</hi> fault, and in this month he hath made two <hi>purifications;</hi> the one on the second day when they were at their beads, and the other on the 13. day set in great letters, yet I wonder <hi>Naworth</hi> did not tremble, when such as her Majesty cryed to the hils to co<g ref="char:EOLhyphen"/>ver her, did not thou <hi>Naworth</hi> fear to give an account of these notorious untruths.</p>
+               </div>
+               <div type="month">
+                  <head>
+                     <hi>MARCH</hi> hath XXXI dayes.</head>
+                  <p>HEre he speaks of the great victory on <hi>Hopton</hi> heath, &amp; you may see his affection to the Crown of King <hi>Charles,</hi> for he writes in breviats the dialect of <hi>Oxford,</hi> as
+<pb n="4" facs="tcp:159149:3"/> your <hi>Oxford</hi> plots are usually written, for next to the day titled <hi>in it Reg. Car.</hi> he sets <hi>Rupert</hi> in the collumn of the Saints, and then another breviat <hi>Epis,</hi> which stands for Bi<g ref="char:EOLhyphen"/>shops, and least <hi>Maurice</hi> should stand in competition to the Crowne also, he allowes him his succession also under the title of <hi>Victor. Mar.</hi> victorious <hi>Maurice,</hi> or in his own language, cowardly Rebell.</p>
+               </div>
+               <div type="month">
+                  <head>
+                     <hi>APRIL</hi> hath XXX dayes.</head>
+                  <p>ANd here he saith, Prince <hi>Rupert</hi> entred the seditious town of <hi>Brumidgham,</hi> and it maketh me admire that the young man was not misled seeing — <hi>April</hi> —you may lead a foole whether yo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wil, but this was not the first day, but <hi>Monday,</hi> the 3. day, and in this month is his rabical observation of St. <hi>Chad,</hi> the very same that a <hi>Roman Catholike</hi> made long since con<g ref="char:EOLhyphen"/>cerning the L. <hi>Brook,</hi> but I suppose you remember who told you, that is rather an argument a<g ref="char:EOLhyphen"/>gainst <hi>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>athedrals,</hi> if not, see what M. <hi>Booker</hi> saith concerning the day of <hi>inventio crucis,</hi> me thinks you <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ould put the dates of your new Nobilities patents too in your Chronologie, but that were an argument against your truly noble Lords.</p>
+               </div>
+               <div type="month">
+                  <head>
+                     <hi>MAY hath</hi> XXXI daies.</head>
+                  <p>MAY may produce something more remakeable occurrences to them, therfore hee conse<g ref="char:EOLhyphen"/>crates a day to <hi>Petronel;</hi> you see this Alminack speaks in <hi>carabine</hi> language, and it may be the same day when Col <hi>Goodwin</hi> surprized t<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em by <hi>Bril,</hi> &amp; took a Cornet, on which was this device, a <hi>swor<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> &amp; <hi>Carbine</hi> with this inscription; <hi>Ratio ultima raegum,</hi> which it may bee, was a concecrated banner to the memory of the great victory he cals it, that the L. <hi>Hopton</hi> had over the rebels, as his phrase is, when he had spent his powder, and fel to it with swords, pikes, and musket stocks: I beleeve it to be concecrated rather, because I conceave 'twas of her Majesties own regiment, for 'twas on black damask.</p>
+               </div>
+               <div type="month">
+                  <head>
+                     <hi>IVNE</hi> hath XXX dayes.</head>
+                  <p>
+                     <hi>IVne</hi> the 18. his highnes Prince <hi>Rupert</hi> beat up the quarters at <hi>Chinner,</hi> &amp; there was slain Mr. <hi>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ohn Hampden</hi> accused of high treason, but it was by St. <hi>Petronel,</hi> as you spoke of, that came into the house armed, and would have acted violence on the person of others, had not God prevented it. <hi>Hampdens</hi> name is honourable; <hi>Decorem e<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t pro patria mori,</hi> and his bloud is able to beat up your quarters as wel as the blood of <hi>Abel</hi> cryed for vengeance.</p>
+               </div>
+               <div type="month">
+                  <head>
+                     <hi>IVLY</hi> hath XXXI dayes</head>
+                  <p>
+                     <hi>YOu lye,</hi> it hath but 6 in your own account, for <hi>Nulla dies sine linea;</hi> you have never a day without a great victory, &amp; you had but 5 this month, and a providence, now I see some da<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s may passe without a lye, but there are lyes enough in this 6 dayes to victuall the University for 6 months, and allow a lye a day enough to furnish the 3<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dayes withall, and as Mr. <hi>Booker</hi> well observe<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, never was so many lyes under the title of an Alminack, and which is observeable in this month, they left not one rebell on the 13 day, and yet on the 14 day of this month, he saith Pr. <hi>Rupert</hi> had <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oyned his forces to his brothers, and judg then when the whole body of their strength was together, whether that were not a rebellion of the blood royall to deprive his Majesty and his hopefull posterity.</p>
+               </div>
+               <div type="month">
+                  <head>
+                     <hi>AVGVST</hi> hath XXXI dayes.</head>
+                  <p>
+                     <hi>NAworth</hi> is always on the winning side, and though he say much this month he promi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es a<g ref="char:EOLhyphen"/>mendment, for he saith that the 27 day of this month <hi>Dog-d<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yes end,</hi> and then we hope we shall have no more of thi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>Mali-l<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gni,</hi> such Malignants as himselfe, or such <hi>Evil-wood-heads,</hi> &amp; we hop further, that Pr. <hi>Ru ert</hi> who hath yet no more religion then <hi>Cor<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>elius Agrippa</hi> that at last left his dog with this Irony. <hi>Abi a me, &amp;c.</hi> goe from me thou wic<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed beast, that hast undone me, and no doubt but if the devil<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, as many think it is in the shape of a dogge, when he per<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ives his Mr. <hi>Rupert</hi> intends to turn him out of service, h<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e'l drown hims<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lf as the said <hi>Corne<g ref="char:EOLhyphen"/>lius</hi> his dog did at the harsh sentence of his M<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ster.</p>
+               </div>
+               <div type="month">
+                  <head>
+                     <hi>SEPTEMBER</hi> hath XXX dayes,</head>
+                  <p>
+                     <hi>IT should seem they sung Masse at</hi> Oxford <hi>the 14 day of this month, or else carried the horse from door to door, hence it is termed</hi> Exdiatio Crucis. <hi>In this month it was where the re<g ref="char:EOLhyphen"/>bellion of</hi> Ireland <hi>increased more and more, in</hi> England, <hi>and his highnesse Prince</hi> Maurice <hi>made</hi>
+                     <pb n="5" facs="tcp:159149:3"/> such a hot assault on <hi>Exeter,</hi> that he fired the suburbs, <hi>in hoc signo vinces,</hi> it should seeme great is <hi>Dianah. Naworth</hi> is not so ingenious in this month as <hi>Aulicus</hi> (in the report of the victory neare <hi>Auburn</hi> in <hi>Wiltshire,</hi> where he saith there was none of <hi>No-worth</hi> k lled) onely in this, he saies the Queens regiment was commanded by <hi>Jermin,</hi> but when he tells how the <hi>London</hi> forces stole toward <hi>London,</hi> that <hi>Rup<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rt</hi> overtook them with his Majesties horse, and here he speaks like the lying <hi>O<g ref="char:EOLhyphen"/>racle</hi> doubtfull. <hi>Caesar</hi> passing over the stood <hi>Halim,</hi> shall overthrew a great army, and so he sait<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, the L. <hi>Jermin</hi> performed so wel on the rebels part, that many great bodyes of foot were routed: alas gracious Ki<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g, that suffers himselfe to be misled by the salutat<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on of <hi>Charles</hi> the great, with which <hi>Naworth</hi> ends his Almanack, &amp; considers not his doubtful meaning in those words, <hi>Hierarchiae dig<g ref="char:EOLhyphen"/>nitatis as<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rto &amp; <gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ndex.</hi> Since there is a m<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>stery of iniquity in Hierarchy.</p>
+               </div>
+               <div type="month">
+                  <head>
+                     <hi>OCTOBER hath</hi> XXXI dayes.</head>
+                  <p>ANd on the first day was his Majesties Commission granted to the Irish to seize to his use all the lands and estates of the English Protestants there, who list to see the Copy of the Comm ssion, may read in the miste<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y of iniquity working in the Kingdomes of <hi>England, Scotlan<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> and <hi>I<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>land,</hi> dated a little before the <hi>grand rebellion</hi> brake forth there, <hi>Octob. 23.</hi> On which day he saith, was a convention of all orders, for there was <hi>Franciscans, Dominicans, Lins<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y &amp; Wool<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>y,</hi> impure <hi>N<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ro<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</hi> fals <hi>Sinons,</hi> seditious <hi>Catalines,</hi> and apostate <hi>Julians</hi> ingaged the K. himself into their grand mischiefe, and emminent dangers, there you might have seen the effect of bad counsel, there was sculking into holes, when the L. <hi>Taffe</hi> was shot in the mouth, but I wonder why he did not put ln so many Kings too, as well as in the Declaration concerning <hi>Brainfor<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> where his Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>esty <hi>Clareceux</hi> is mentioned, but whether he faught on one side or other, the boy at <hi>Kenton</hi> can tel.</p>
+               </div>
+               <div type="month">
+                  <head>
+                     <hi>NOVEMBER hath</hi> XXX <hi>dayes.</hi>
+                  </head>
+                  <p>ON the first of this month was a convention of saints slain at <hi>Edghil,</hi> and the day is celebrated in their memory, <hi>All Saints,</hi> on the <hi>5</hi> day was a seed plot of this <hi>grand rebellion,</hi> to de<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>roy as now the K and Parliament. <hi>Powder-treason,</hi> and <hi>Naworth</hi> himself in the plot, and here in<g ref="char:EOLhyphen"/>deed, he saith the rebels shot against <hi>Sion,</hi> for the Church was set as a mark, and the Thames wept blood, as sensible of the blood of the guiltlesse, murdered by a Commission of Array, whose blood cryes out, <hi>see O Lord the enemies blaspheme thy na<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e,</hi> and there was their blasphemies against God, their Cannons and Demi cannons. <hi>Brainford</hi> can witnesse it, and then the Rebels after all this murder stole away to <hi>Oxford</hi> by an honourable retreate as the forger of these fictonsi calls it.</p>
+               </div>
+               <div type="month">
+                  <head>
+                     <hi>DECEMBER hath</hi> XXXI <hi>dayes.</hi>
+                  </head>
+                  <p>
+                     <hi>I</hi> Am so weary in reading this years lyes, being the Court New-years gift, that I do but wonder what he has to answer for all his lying life, and what a New-years-gift, the forger of this Almi<g ref="char:EOLhyphen"/>nack would be to the devil. <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f you aske what makes the Astronomer there, where there is neither star nor s<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, <hi>I</hi> tell you he is there for making many a lye. And in this month he is troubled at a new great seal, and questions whose image and superscription it is, I say unto thee, it is <hi>Caesars,</hi> but which is greater thou <hi>Hypocrite,</hi> the gold of the Temple, or the Temple that sanctifies the gold, wee can know your Keeper too, by the Title of <hi>1643,</hi> and we <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an know <hi>Nawo<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th</hi> by <hi>1641.</hi> for yee are of your Father the Devill, his workes yee doe, <hi>Redite,</hi> and give the Devill his due.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Observations on his common Notes.</head>
+               <head type="sub">
+                  <hi>The Golden Number.</hi>
+               </head>
+               <p>How much it was, he told you before, what it is, he tells you now, and he dreams of <hi>Magnum Annum Platonis,</hi> the great yeare of <hi>Plato,</hi> for this time 19 yeares he saith things will be as they are, and desires the Scots would let him alone till then, and then hee'll write a Recantation: I should rather believe him if he had said, though this <hi>Parliament</hi> should be dissolved, yet we should have another that time 3 yeare.</p>
+               <p>In the Circle of the Sun he Calculates, how far he is from Christ, and by his owne Computation he is 59. Revolutions.</p>
+               <p>By the Dominicall Letter he knowes when tis a Fast at <hi>Oxford,</hi> it being the Eve before any unmoveable Feast.</p>
+               <p>You must note that the Epact in nothing else but a number of daies which the com<g ref="char:EOLhyphen"/>mon Solar yeare doth exceed the common Lunar yeare, and with them the Compact is
+<pb n="6" facs="tcp:159149:4"/> the number that exceed the Major part of the Houses of <hi>Parliament,</hi> which I feare is not 11. but as he saith, he addes them to Coequate the <hi>Parliament</hi> at <hi>Westminster.</hi>
+               </p>
+               <p>In the Roman Indiction he hath no use of it in <hi>England,</hi> but onely the Bishops of <hi>Rome</hi> being a number of 15 yeares, where at every 5<seg rend="sup">th</seg> yeares end they received Tri<g ref="char:EOLhyphen"/>bute, the first in Gold, the second in Silver, the third in Brasse. But it should seeme the Bishops of <hi>England</hi> were Bishops of <hi>Rome,</hi> witnesse the first 15 years of King <hi>Charles,</hi> for the first 5 years were golden dais, when they were heads of the Church: The next 5 years he saith, was silver, for Souldiers pay w<seg rend="sup">ch</seg> made them send Agents to <hi>Rome</hi> to contribute to the Episcopall wars: And the last 5 yeares, he saith, were paid in brasse and iron for Armour. Now judge who raised this war, who exercised Roman Jndi<g ref="char:EOLhyphen"/>ction? who received Souldiers pay beforeha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d? who provided Armour for Souldiers pay? The Bishops of <hi>Rome.</hi> And now we hope since, the Colledge Plate is pawned to buy Iron, that this <hi>Nebuchadnezzar's</hi> Image is falling, his Head Gold, his Breast Silver, his Thighes Brasse, his Leggs Iron, which we hope are his last legs, and stands on clay, since both Nations have protested against Prelacy.</p>
+               <p>The Winter Quarter is his first quarter Astronomicall, but the last according to our English account (according to our <hi>London</hi> accompt to, for we hope it shall be your last quarter, therefore seeke out for fresh, I scarce believe the Spring will be welcome to you) and it begins the 11<seg rend="sup">th</seg> day of <hi>December</hi> the last yeare he saith, and his time is so neere that he compts but till the 9 <seg rend="sup">h</seg> of <hi>March,</hi> and then for the Robberies com<g ref="char:EOLhyphen"/>mitted this quarter, he shall give an account, and in the meane time he saith the Gal<g ref="char:EOLhyphen"/>lowes groanes for them. I before doubted whether he spake like a Lawyer or an Astro<g ref="char:EOLhyphen"/>nomer in his Computation, but I am now resolved by his words, Winter began the last yeare 1643. which shewes who began this war first, the King, or the Parliament. And he counts the first of <hi>August</hi> that his Excellency the Earle of Essex disposed of his Souldiers in a Regimentall way, and tells us of many of their owne outrages done 6 monthes before, as in <hi>Ianuary</hi> 1642. by the L. <hi>Hopton</hi> neere <hi>Bodmin,</hi> and at <hi>Saltash,</hi> and at <hi>Brill.</hi> In <hi>February</hi> 1642. <hi>Cyrenci<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er:</hi> In <hi>March</hi> 1642. at <hi>Hopton Heath,</hi> when as he saith that the Houses voted not till <hi>May,</hi> after 1642. that the King inten<g ref="char:EOLhyphen"/>ded to make war against his Parliament, I perceive it is as hard to tell what he meanes by 1642. as to know his right hand from his left, except we know whether he looked East, West, North, or South, for if he had looked Easterly, then <hi>Durham</hi> had beene his right hand, and his safest way, as Mr. <hi>Booker</hi> saith, I suppose he durst not looke to<g ref="char:EOLhyphen"/>wards the Pole, lest he should have discovered the Scots advance.</p>
+               <p>In the Spring quarter he casts a Figure, and there is Libra in the Horiscope of <hi>Oxford,</hi> which signifies an ill life, an ill beginning, and an ill ending, and since I find <hi>Fortuna minor</hi> in the Angle of the Earth: I conclude that your men of war be furious, and your children is not legitimate, but I conceive because I find ♈ in the 7<seg rend="sup">th</seg> House, that there be not many theeves amongst you, all are not lyars at <hi>Oxford,</hi> though <hi>Naworth</hi> and <hi>Aulicus</hi> be two. But forasmuch as I find Leo, which is attributed to <hi>Via,</hi> in the Angle meridionall, I conceive if <hi>Naw<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rth</hi> goes to the King hee'l Knight him, but with<g ref="char:EOLhyphen"/>all the F gure tells me he shall neither be King, Emperour, nor Pope, and the same fi<g ref="char:EOLhyphen"/>gure saith, it is not good for the King to goe to the war, for he shall be in danger to be taken or lose the Victory. Thus we see we have a hopefull Figure cast by <hi>Naworth,</hi> which makes us think <hi>Naworth</hi> will come to no good, nor our King to no harme, onely h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> saith <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reate disc<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntent a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e likely to arise among their new Nobility, by reason of the
+<pb n="7" facs="tcp:159149:4"/> accidentall sight of those that continue yet at <hi>Westminster</hi> in spight of the opposition of <hi>Mars.</hi>
+               </p>
+               <p>And now gentle Reader, it will not doe amisse to trace this <hi>Cassandra,</hi> and give him this faculty, that though he should speake true, yet that none may believe him, for it should seem he calculates according to the Hipothesis of Copernicus, and places the Earth in Libra, and has read <hi>Blau de Globis,</hi> and will perswade you that the Earth runs round, and the Sun stands still, and that's the very reason that he calls Routings, Victories all along his Almanack: And so he saith the Summer quarter shall begin when the Earth hath volved her selfe to the farthest limit of the South, or the Sun after an old (Fantasie) hath made his preambulation Northward, and in Autumne, the Earth's Axis paraleld to the Sun's, shall move in its diurnall revolution directly to the Suns Superficies, or the Sun (after common conceit) crossing the worlds Axis. Now I see I have met with a Copernican and it was not the Sun that stood still in <hi>Hezeki<g ref="char:EOLhyphen"/>ah's</hi> daies, but the Earth, and since he would perswade this, I hope his lyes will gaine no reputation with the Vulgar.</p>
+               <p>I passe over his Astronomicall Calculations, his going in procession with his Holi<g ref="char:EOLhyphen"/>nesse, and his greatest obliquity from as learned Writers as himselfe, and his Excentri<g ref="char:EOLhyphen"/>city in being at <hi>Oxford</hi> no place of his Residence, together with his true and apparent magnitude in part discovered in his many falsityes, and how he takes no notice of those two Ecclipses happening this yeare 1644. at <hi>Aulton</hi> and <hi>Arundell,</hi> but none of them seen in their Horizon at <hi>Oxford,</hi> this lyar has cast such a mist before their eyes, but he will not dispute the effects of either, for he saith, <hi>Parvae Eclipses parum nocent, &amp; in pauca operantur,</hi> he will not believe till he sees, for, <hi>Nihil nocent illis Regionibus in quibus non videntur:</hi> He partly knew we were choosing new Sheriffes when he spake of Election, and believes they shall feele their influence be it good or evill: For Phlebotomy in regard bloud is the chiefest humour in mans body, he conceives it d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>gerous at any time, but upon urgent occasions, and the veines which should have been let bloud, fled back to the heart by feare, whence it comes to passe that the Phisitian cannot come at the jugular veine, which makes the Kingdome in such a distemper, that it will never be well till Delinquents be brought to Justice.</p>
+               <p>The strange humours they have at <hi>Oxford</hi> are 4, Bloudy, Pragmaticall, Cholerick, Melancholy: the first in the Court, the second in the Colledges, the third in the Camp, the fourth in the City, which drives them in such melancholy dumps that they are at their witts end, and the way to purge is either by neezing, in giving the head better Counsellours, or by vomiting out the evill ones, and then you may find when the moon is fal South at <hi>Newcastle,</hi> and know when the tide wil serve from thence to bring coals to Towne, but I shall leap over his Leap-year, and come to his great Conjunction of Saturne and Jupiter, and he begins. I am not altogether ignorant, there is more hopes of a foole, he knowes it to be <hi>Conjunctio Planitarum maxima,</hi> but he wonders at the impudence of some like himselfe that hath neither Art nor honesty, small Art appeares in his Prognostication, and lesse honesty, in perswading many poore seduced people, that all the Victories hapened to the Cavaliers, and to none but they at <hi>Oxford,</hi> al<g ref="char:EOLhyphen"/>though your Tutor may vouchsafe to use the writings Declarations Protestations, and
+<pb n="8" facs="tcp:159149:5"/> Petitions of the Lords and Commons, and may easily see how far it concernes the whole Chri<g ref="char:EOLhyphen"/>stian world aswell as England, and not onely England, but as you say, France, Basternia, Syria, Palastina &amp;c. to take heed of Hierchiae aswell as Anarchy, and questionlesse not England only, is concerned in a through Reformation, for the 10. Kings shall hate the whore, and burne her with fire, the Viall is ca<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t out on the Throne of the Beast already, I need not tell you of the Ef<g ref="char:EOLhyphen"/>fects you are answered already, and for the fixed Stats which hapned at Westminster the 3 of No<g ref="char:EOLhyphen"/>vemb. 1640. had their light from the Sun, though there was an intervale when it was dissolved, yet it brake through those clouds, and though his Beames were hindred by interposition of those that are not for peace, yet we hope <hi>Exurgat &amp; disapenter,</hi> but because <hi>Iupiter</hi> troubles you, Ile deale ingeniously with you, and tell you a Fable of <hi>Iupiter.</hi> Did you never read of the Ministers of Terrour, who for their cruelty were condemned into Hell by <hi>Iupiter?</hi> did you never read of the Cyclops voted out of the House, and declared Traitors by his Majesties Proclamations? And did you never read how <hi>Tellus</hi> perswaded <hi>Iupiter</hi> that they might doe him service in forging of Thunderbolts? And therefore being banished the Land were sent for in againe by whole Armies, whose paines and industry was grea<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n providing instruments of terrour, and how <hi>Iupiter</hi> concei<g ref="char:EOLhyphen"/>ving displea<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure against an innocent man, the Son of <hi>Apollo,</hi> for raising a dead man to life, made use of one of these to kill him, but was revenged by <hi>Apollo.</hi> Make thunderbolts at <hi>Oxford,</hi> let <hi>Naworth</hi> be the Cyclop which cast two of his owne framing against Mr. <hi>Pym.</hi> and the Lord <hi>S<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>,</hi> for endeavouring to revive a sinking Kingdome, let him remember, <hi>Apollo</hi> may bring him to Iu<g ref="char:EOLhyphen"/>stice, and then <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e shall see the effect of the great Conjunction in <hi>November</hi> he speakes of. Nei<g ref="char:EOLhyphen"/>ther, as he saith, can we deduce the signification of this unnaturall war from the conjunction which h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppened <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>February</hi> 1642. for we all know what was done above 2 yeares before that time, and what diligence hath been used to bring over Forraigne Forces to suppresse the Parlia<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> witnes the letters and Agents sent into <hi>Denmarke,</hi> when his Majesty resided in <hi>Scotland,</hi> and the great offers made to our Brethren there, in case they would assist him against the Parliament in <hi>England,</hi> and this the meanest capacitie may und<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rstand, except they be wilfully blind.</p>
+               <p>And for those yet fixed stars that fought in their courses, some though extinguished, yet, <hi>Spi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>dehunt tanquam Stella</hi> maugre all the malice of their enemies th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t talke of St. <hi>Chad,</hi> and the <hi>Ch<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>grove</hi>-Field where Mr. <hi>Iohn Hampden</hi> fell: Ile tell thee a Heathen could see farther than, you that did not attribute things to Fate when he said. </p>
+               <q>
+                  <bibl>Virgil Aeneid.</bibl>
+                  <l>—Cad<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t &amp; Ripheus justis sumus unus,</l>
+                  <l>Qui suit ex Teucris et servantis simus Equi</l>
+                  <l>Dijs uliter visum.—</l>
+               </q>
+               <p>And though they fell in Battaile, yet this is Epitaph enough for each of them, that they were just men, and God saw it good to take them to himselfe, where they now shine as starres, whose height <hi>Naworth</hi> can never attaine to. And as he he saith, no sooner had the Houses began to Vote, but he began to be sencible of <hi>Homo trium litirarum,</hi> and that thefts and robberies would follow, and that all the false Prophets in the Kingdome would be convened Heresies and Schismes tollerated, and in his owne words, nay defended so, that I see he would lie if his tongu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> would let him, <hi>Subsequens Actus ad viuum exprimat.</hi>
+               </p>
+               <p>Wherein he hopes that the cau<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of all these mischiefes in <hi>November</hi> at <hi>Brainford,</hi> so also tha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>February</hi> the 13. will be the Forerunner of a through Reformation indeed, by purging it o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> all Sectaries, Brownists, Anabaptists &amp;c. by which he understood the rooting out of the Prote<g ref="char:EOLhyphen"/>stant Rel<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gion, and bringing in the Authors of this bloudie war, whereby some of his friends a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>London</hi> conceive the writer of those Forgeries are as void of reason as Loyaltie, and doe there<g ref="char:EOLhyphen"/>fore w<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King may take hee<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of him, indeed for this Yeares Revolution, we see nothing tha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r his sac<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Majesti<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from returning againe to his <hi>Parliament,</hi> were the wicked remo<g ref="char:EOLunhyphen"/>ved from his Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one. In the meane time, since the Shi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld of the mightie is fallen, and the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Lords annointed is in the Mountaines of Gilboa, set <hi>David's</hi> wish light upon that mountaine o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> opposition, <hi>neque R<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, n<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>que <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>luvi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Let neither raine nor dew f<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll in <hi>Oxford</hi> till our King be re<g ref="char:EOLhyphen"/>deemed out of the h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds of the uncircumcised, and we againe see his face as an Angel of God.</p>
+               <p>And because I <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w <hi>Naworth</hi> in his owne Method, I see no reason why I may not sa<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te h<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with that S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lutation, <hi>Salv<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te Magister Artium Menda<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ium, &amp; quidem omnium Aulicor<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Mi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nium, Academi a<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um.</hi>
+               </p>
+               <closer>
+                  <signed>Dixi. S. Morgan.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
